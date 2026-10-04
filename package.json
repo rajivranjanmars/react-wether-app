@@ -44,5 +44,9 @@
     "jsdom": "^26.1.0",
     "vite": "6.4.3",
     "vitest": "4.1.11"
+  },
+  "author": {
+    "name": "rajivranjanmars",
+    "url": "https://rajivranjana.in"
   }
 }
