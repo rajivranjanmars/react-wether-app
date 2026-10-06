@@ -8,4 +8,4 @@ Run `npm install` and `npm start` for development. Build the application with `n
 
 ## Author
 
-Author: [rajivranjanmars](https://rajivranjana.in).
+Author: [Rajiv Ranjan](https://rajivranjan.in).
